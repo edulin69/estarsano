@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "meridianoId": 1,
+    "nombre": "Zhongfu",
+    "numero": "P1",
+    "Ubicacion": "6 Cun lateral a la linea media anterior",
+    "Indicacion": "tos, asma, dolor de pecho",
+    "image": "https://www.estarsano.cl/image/pulmon.png",
+    "Metodo": "oblicuamente al laso lateral"
+  },
+  {
+    "id": 2,
+    "meridianoId": 1,
+    "nombre": "Yunmen",
+    "numero": "P2",
+    "Ubicacion": "6 Cun lateral a la linea media anterior",
+    "Indicacion": "tos, asma, dolor de pecho",
+    "image": "https://www.estarsano.cl/image/pulmon.png",
+    "Metodo": "oblicuamente al laso lateral"
+  },
+  {
+    "id": 3,
+    "meridianoId": 2,
+    "nombre": "Tianfu",
+    "numero": "P3",
+    "Ubicacion": "6 Cun lateral a la linea media anterior",
+    "Indicacion": "tos, asma, dolor de pecho",
+    "image": "https://www.estarsano.cl/image/pulmon.png",
+    "Metodo": "oblicuamente al laso lateral"
+  },
+  {
+    "id": 4,
+    "meridianoId": 3,
+    "nombre": "Xiabai",
+    "numero": "P4",
+    "Ubicacion": "6 Cun lateral a la linea media anterior",
+    "Indicacion": "tos, asma, dolor de pecho",
+    "image": "https://www.estarsano.cl/image/pulmon.png",
+    "Metodo": "oblicuamente al laso lateral"
+  }
+]
