@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pulmon",
+    "puntos": 11,
+    "nivel": "Taiyin",
+    "categoria": "Principales",
+    "image": "https://www.estarsano.cl/image/pulmon.png",
+    "ptos": [
+      {
+        "ptoId": 1,
+        "nombre": "Zhongfu",
+        "numero": "P1",
+        "Ubicacion": "6 Cun lateral a la linea media anterior",
+        "Indicacion": "tos, asma, dolor de pecho",
+        "image": "https://www.estarsano.cl/image/pulmon.png",
+        "Metodo": "oblicuamente al laso lateral"
+      },
+      {
+        "ptoId": 2,
+        "nombre": "Yunmen",
+        "numero": "P2",
+        "Ubicacion": "6 Cun lateral a la linea media anterior",
+        "Indicacion": "tos, asma, dolor de pecho",
+        "image": "https://www.estarsano.cl/image/pulmon.png",
+        "Metodo": "oblicuamente al laso lateral"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Intestino Grueso",
+    "puntos": 20,
+    "nivel": "Yangming",
+    "categoria": "Principales",
+    "image": "https://www.estarsano.cl/image/ig.png",
+    "ptos": [
+      {
+        "ptoId": 1,
+        "nombre": "Tianfu",
+        "numero": "P3",
+        "Ubicacion": "6 Cun lateral a la linea media anterior",
+        "Indicacion": "tos, asma, dolor de pecho",
+        "image": "https://www.estarsano.cl/image/pulmon.png",
+        "Metodo": "oblicuamente al laso lateral"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Estomago",
+    "puntos": 45,
+    "nivel": "Yangming",
+    "categoria": "Principales",
+    "image": "https://www.estarsano.cl/image/bazo.png",
+    "ptos": [
+      {
+        "ptoId": 1,
+        "nombre": "Xiabai",
+        "numero": "P4",
+        "Ubicacion": "6 Cun lateral a la linea media anterior",
+        "Indicacion": "tos, asma, dolor de pecho",
+        "image": "https://www.estarsano.cl/image/pulmon.png",
+        "Metodo": "oblicuamente al laso lateral"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Bazo",
+    "puntos": 21,
+    "nivel": "Taiyin",
+    "categoria": "Principales",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Corazon",
+    "puntos": 9,
+    "nivel": "Shaoyin",
+    "categoria": "Principales",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Intestino Delgado",
+    "puntos": 19,
+    "nivel": "TaiYang",
+    "categoria": "Principales",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Vejiga",
+    "puntos": 67,
+    "nivel": "Taiyang",
+    "categoria": "Principales",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Riñon",
+    "puntos": 27,
+    "nivel": "Shaoyin",
+    "categoria": "Principales",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Pericardio",
+    "puntos": 9,
+    "nivel": "Jueyin",
+    "categoria": "Principales",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Sanjiao",
+    "puntos": 23,
+    "nivel": "Shaoyang",
+    "categoria": "Principales",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Vesicula Biliar",
+    "puntos": 44,
+    "nivel": "Shaoyang",
+    "categoria": "Principales",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Higado",
+    "puntos": 14,
+    "nivel": "Jueyin",
+    "categoria": "Principales",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Vaso Concepcion Renmai",
+    "puntos": 24,
+    "nivel": "",
+    "categoria": "Extraordinarios",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Vaso Gobernador Dumai",
+    "puntos": 28,
+    "nivel": "",
+    "categoria": "Extraordinarios",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  }
+]
